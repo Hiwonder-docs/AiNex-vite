@@ -20,6 +20,8 @@ npm run docs:stage-main
 ```
 
 The staged production files are generated in `projects/AiNex/en/latest/`.
+During staging, raster images are converted to WebP and page references are
+updated to match.
 
 ## GitHub Pages deployment
 
